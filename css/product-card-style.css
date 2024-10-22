@@ -32,7 +32,7 @@ body
 }
 
 
-
+/* left image col */
 .left-img-col img 
 {
     width: 100%;
@@ -40,6 +40,7 @@ body
     object-fit: cover;
 }
 
+/* right info col */
 .right-info-col 
 {
     padding: 20px;
@@ -48,6 +49,7 @@ body
     color: var(--section-text-color);
 }
 
+/* right info col heading 3 */
 .right-info-col h3 
 {
     font-size: 32px;
@@ -55,6 +57,7 @@ body
     margin-bottom: 15px;
 }
 
+/* right info call heading 5 */
 .right-info-col h5 
 {
     font-size: 18px;
@@ -62,6 +65,7 @@ body
     margin-bottom: 20px;
 }
 
+/* right info col paragraph */
 .right-info-col p 
 {
     font-size: 14px;
@@ -69,6 +73,7 @@ body
     margin-bottom: 20px;
 }
 
+/* color section */
 .available-colors 
 {
     padding: 20px;
@@ -106,6 +111,7 @@ body
     background-color: beige;
 }
 
+/* price */
 .price h4 
 {
     font-size: 32px;
